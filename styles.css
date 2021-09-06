@@ -122,3 +122,26 @@ button:nth-child(20){
   margin: 10px auto;
 }
  }
+@media screen and (max-width: 1328px)
+{
+#calculator
+{
+  height: 78%;
+  width: 35%;
+  background-color: #fff;
+  margin:0 auto;
+  top: 8%;
+  bottom: 4%;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8),0 6px 20px 0 rgba(0,0,0,0.8);
+}
+#container
+{
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(banner.jpeg);
+  margin: 10px auto;
+}
+ }
