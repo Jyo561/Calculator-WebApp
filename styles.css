@@ -122,7 +122,7 @@ button:nth-child(20){
   margin: 10px auto;
 }
  }
-@media screen and (max-width: 1328px)
+@media screen and (min-width: 1128px)
 {
 #calculator
 {
