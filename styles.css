@@ -122,12 +122,12 @@ button:nth-child(20){
   margin: 10px auto;
 }
  }
-@media screen and (min-width: 1128px)
+@media screen and (min-width: 1128px) and (max-width:1228px)
 {
 #calculator
 {
   height: 78%;
-  width: 30%;
+  width: 25%;
   background-color: #fff;
   margin:0 auto;
   top: 8%;
